@@ -4,6 +4,9 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+body {
+    background: linear-gradient(135deg, #9000fe, #8a547a);
+}
 .card{
     width: 90%;
     max-width: 470px;
